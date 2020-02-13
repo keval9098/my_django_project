@@ -24,3 +24,5 @@ class Choice(models.Model):
     vote=models.IntegerField(default=0)
     def __str__(self):
         return self.choice_text
+class Voters(models.Model):
+    user_number=models.IntegerField(default=0)
