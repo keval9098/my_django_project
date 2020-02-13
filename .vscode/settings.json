@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/keva/envs/projects/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
